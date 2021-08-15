@@ -13,7 +13,7 @@ Stripe Workflow
 
 -pass the customer id and charge the customer.
 
-This is the pattern stripe works
-the site source code has comments that you can follow easily
+This is the pattern of stripe.
+the site source code has comments that you can follow easily.
 
-Thank you,
+Thank you.
